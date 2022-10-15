@@ -29,3 +29,5 @@ yarn dev
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/16832202-de3b3f8e-f82b-403f-9530-836f4c5adc22?action=collection%2Ffork&collection-url=entityId%3D16832202-de3b3f8e-f82b-403f-9530-836f4c5adc22%26entityType%3Dcollection%26workspaceId%3D73ada041-1978-4536-b11c-a3bd606bd1b0)
 
 ## Checkout the related Post on Dev.to 📖
+
+[https://dev.to/sneakysensei/nextjs-api-routes-global-error-handling-and-clean-code-practices-3g9p](https://dev.to/sneakysensei/nextjs-api-routes-global-error-handling-and-clean-code-practices-3g9p)
